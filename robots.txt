@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haydenso.com/academics/sitemap.xml
+Sitemap: https://haydenso.com/academic/sitemap.xml
