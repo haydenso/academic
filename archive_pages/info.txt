@@ -1,0 +1,2 @@
+To hide a page, move it from _pages into this archive_pages folder so it does not show on the final website
+Move it back to _pages for it to reappear
