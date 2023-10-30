@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haydenso.github.io# the base hostname & protocol for your site/academics/sitemap.xml
+Sitemap: https://haydenso.com/academics/sitemap.xml
